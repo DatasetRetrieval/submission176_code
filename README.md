@@ -1,6 +1,6 @@
 # submission176_code
 
-This project provides the code of the experiments for entity-based retrieval with entity expansion and ranking functions that take hierachical relations of entities into account.
+This project provides the code of the experiments for entity-based retrieval with entity expansion and ranking functions that take hierarchical relations of entities into account.
 
 ## Overview
 
@@ -30,7 +30,7 @@ Build and install the SML library with Maven.
 
 #### 2.) slibAPI and used ontologies
 
-The slibAPI is wrapper project for the SML library and loads all ontologies as external knowledge sources. Download and install the slibAPI. Create a ``resource/vocabs`` folder under the root folder ``slibAPI``. Download the following ontologies in owl format from [OBO Foundry](http://www.obofoundry.org/) and store it in the ``vocabs'' folder: 
+The slibAPI is wrapper project for the SML library and loads all ontologies as external knowledge sources. Download and install the slibAPI. Create a ``resource/vocabs`` folder under the root folder ``slibAPI``. Download the following ontologies in owl format from [OBO Foundry](http://www.obofoundry.org/) and store it in the ``vocabs`` folder: 
 
 * [bfo](http://www.obofoundry.org/ontology/bfo.html)
 * [bto](http://www.obofoundry.org/ontology/bto.html)
@@ -77,4 +77,4 @@ Download and install the Mimír search API project. In the ``MimirSearch.java`` 
 The MimirTest project provides the code we ran to evaluate entity expansion and entity-based ranking functions on two test collections. It can be also used as example code for own search purposes and evaluations. 
 
 ## License
-ScholarLensViz is distributed under the terms of the [GNU LGPL v3.0.](https://www.gnu.org/licenses/lgpl-3.0.en.html)
+The code in this project is distributed under the terms of the [GNU LGPL v3.0.](https://www.gnu.org/licenses/lgpl-3.0.en.html)
