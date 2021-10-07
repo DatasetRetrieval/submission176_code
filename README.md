@@ -4,15 +4,15 @@ This project provides the code of the experiments for entity-based retrieval wit
 
 ## Overview
 
-* SML extension (node level computation for HCF-IDF)
+* [SML extension](https://github.com/DatasetRetrieval/submission176_code/tree/main/slib-sml/src/main/java/slib/sml/sm/core/engine)(node level computation for HCF-IDF)
 
-* slibAPI (Wrapper)
+* [slibAPI](https://github.com/DatasetRetrieval/submission176_code/tree/main/slibAPI) (Wrapper)
 
-* GATE Mimír plugins
+* [GATE Mimír plugins](https://github.com/DatasetRetrieval/submission176_code/tree/main/Mimir6.2)
 
-* Mimír Search API (Wrapper)
+* [Mimír Search API](https://github.com/DatasetRetrieval/submission176_code/tree/main/MimirSearchAPI) (Wrapper)
 
-* Test Project
+* [Mimir Test](https://github.com/DatasetRetrieval/submission176_code/tree/main/MimirTest/mimirTest)
 
 
 ## Installation instructions
